@@ -1,123 +1,80 @@
 ---
 layout: default
+title: Mohit - Cyber Security Analyst
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Mohit  
+**Cyber Security Analyst**  
+📍 Sonipat, Haryana, India  
+📧 [Mohitcomputerscience@gmail.com](mailto:Mohitcomputerscience@gmail.com)  
+🔗 [GitHub](https://github.com/Mohit02-cse)  
 
-[Link to another page](./another-page.html).
+---
 
-There should be whitespace between paragraphs.
+## **About Me**  
+I am a **Cyber Security Analyst** skilled in **incident response, SIEM solutions, endpoint protection, and penetration testing**. Passionate about **vulnerability management, security automation, and cloud security**, I actively work on **offensive and defensive security strategies**.  
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+I am proficient in **Python, C/C++, Go Lang**, and experienced with security tools like **Splunk, QRadar, CrowdStrike, Cisco ASA, Palo Alto Firewalls, and network security protocols**.
 
-# Header 1
+---
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## **Experience**  
+### **Cyber Security Analyst**  
+📍 MK App Creatives Pvt Ltd | **May 2023 – July 2023**  
+- Conducted **vulnerability assessments** to identify and mitigate threats.  
+- Performed **penetration testing**, reducing attack surfaces by **30%**.  
+- Implemented **network security protocols**, enhancing system resilience by **25%**.  
+- Worked with development teams to integrate security into the SDLC.  
 
-## Header 2
+---
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## **Skills**  
+- **Programming:** Python, C/C++, Java, Go.  
+- **Security Tools:** Splunk, QRadar, CrowdStrike, Cisco ASA, Palo Alto Firewalls.  
+- **Networking & Protocols:** TCP/IP, HTTP/S, DNS.  
+- **Scripting & Automation:** Python, Bash.  
+- **Soft Skills:** Problem-Solving, Analytical Thinking, Communication, Collaboration.  
 
-### Header 3
+---
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## **Education**  
+🎓 **B.E. in Computer Science & Engineering (Information Security)**  
+📍 Chandigarh University | **2021 – 2025**  
+- Key Courses: **Network Security, Cryptography, Incident Response, Cloud Security.**  
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+📖 **Senior Secondary (12th Grade)**  
+📍 Maharani Laxmi Bai Neo Convent Public School | **2020 – 2021**  
 
-#### Header 4
+📖 **Secondary (10th Grade)**  
+📍 Maharani Laxmi Bai Neo Convent Public School | **2018 – 2019**  
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+---
 
-##### Header 5
+## **Certifications**  
+✔ **Microsoft Cyber Security Analyst** - [Coursera](https://coursera.org/share/54e2c2e160e3bc27f6adf57cd0a1a5e7)  
+✔ **IBM Security Analyst Fundamentals** - [Coursera](https://coursera.org/share/0ff08ffefd0683d10deeec0630a24966)  
+✔ **Cybersecurity Essentials** - Cisco Networking Academy (Oct 2023 – Nov 2023)  
+✔ **Cyber Threat Intelligence** - IBM (Nov 2023 – Dec 2023)  
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+---
 
-###### Header 6
+## **Projects**  
+🔹 **Cyber Security Research & Demonstration** (**Feb 2022 – May 2022**)  
+Researched and simulated **cybersecurity threats** and countermeasures.  
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+🔹 **SQL Injection Data Leak Detection** (**Aug 2023 – Dec 2023**)  
+Developed an **SQL Injection detection system** following OWASP guidelines, improving application security.  
 
-### There's a horizontal rule below this.
+🔹 **Next-Gen Firewalls & IDS** (**Feb 2024 – Apr 2024**)  
+Tested **advanced firewalls & IDS**, improving threat detection.  
 
-* * *
+🔹 **HTTP Server using RESTful API in Go Lang** - [GitHub](https://github.com/Mohit02-cse/Http-server-using-Go-lang)  
+Built an efficient **Go-based backend** with **database integration**.  
 
-### Here is an unordered list:
+---
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+🌐 **Explore my work:** [GitHub](https://github.com/Mohit02-cse)  
 
-### And an ordered list:
+---
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+🚀 **Let’s connect & build secure systems together!**  
